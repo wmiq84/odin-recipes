@@ -1,0 +1,16 @@
+.title {
+    color:pink;
+}
+
+.muffins,
+.grilled-cheese {
+    font-weight: bold;
+}
+
+.grilled-cheese {
+    color: tan;
+}
+
+.muffins {
+    color: purple;
+}
