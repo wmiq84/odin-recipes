@@ -1,2 +1,2 @@
 # odin-recipes
-Created a simple site with html and git. The site has two recipes - plum streusel muffins and grilled cheese sandwiches. The muffin recipe came from: https://www.allrecipes.com/plum-streusel-muffins-recipe-8698288 and the grilled cheese from: https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/
+Created a simple site with html and git. The site has two recipes - plum streusel muffins and grilled cheese sandwiches. The muffin recipe came from: https://www.allrecipes.com/plum-streusel-muffins-recipe-8698288 and the grilled cheese from: https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/.
